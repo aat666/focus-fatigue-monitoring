@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import cv2
 import dlib
 import numpy as np
@@ -97,3 +98,6 @@ cv2.destroyAllWindows()
 print("Monitoring Stopped.")
 
 print(f"Total Blinks: {total_blinks}")
+=======
+print("hello")
+>>>>>>> e633746e99a9a7a64698436608811bac260d3be2
