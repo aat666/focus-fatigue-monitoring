@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.py[cod]
+*.class
+
+# Machine Learning Model Weights
+*.pkl
+
+# Virtual Environment
+venv/
+env/
+
+# IDE Settings
+.vscode/
+.idea/
+
+# Misc
+.DS_Store
